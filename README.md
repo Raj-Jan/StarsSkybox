@@ -7,3 +7,5 @@ Because of desturbing behavion of perspective projection with high fov, spherica
 I used database of ~7 000 real stars incuding their brightness, temperatures and classes, and recalculated physical data into screen size and rgb color.
 
 A user can use Left Shift - Left Ctrl to manipulate zoom, and discover richness of night sky.
+
+![Alt Text](result.gif)
